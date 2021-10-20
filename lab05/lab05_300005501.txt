@@ -1,0 +1,35 @@
+Summary:
+The group first discussed who should start the pitches
+Logan began his pitch
+Logan is pitching landing bay feature
+There is no existing landing bay feature which is important
+There is no indication of where the landing bay is
+Currently only Ai is used to determine landing bay
+He is hoping to complete feature by 6 weeks
+There are multispot bays and single spot landing bays
+There will be landing bay cards which give information
+Updates streamed through websockets
+Feature is view only 
+Should be using only deck.gl elements
+Ismail then began to present his feature 
+He explained his job menu feature 
+His feature is to show incoming and active drones on the dashboard
+Jonathan began his pitch
+His pitch is for the create new mission 
+The drone operator has ability to create a new jobs for drones
+This will then send over the to the jobs menu
+The edit of the mission will not be included
+Zakariya started his pitch
+His pitch is for the review incoming jobs
+The feature allows operators to reject,edit and approve job
+Appetite is 6 weeks
+Panel will be created and it will be connected to jobs menu
+Way points can be deleted and connected
+Omar then began his pitch
+His feature is the navigation drawer which is essential for organizing information
+It will be the home for all information the operator needs
+It will have drop down menus with more information
+Once the drop down menus are clicked there is more information
+We then discussed what pitch is feasible 
+We chose logans feature as it made most sense at the time
+Meeting ended. 
